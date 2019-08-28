@@ -4,7 +4,6 @@
 	Portfolio: http://romain.dalichamp.fr
 	Contact: romain.dalichamp@free.fr
 */
-select round(LONG_W,4) from STATION
-where LAT_N = 
-    (select max(LAT_N) from STATION 
-     where LAT_N < 137.2345);
+select NAME from STUDENTS
+where MARKS > 75
+order by SUBSTR(NAME,-3,3), ID ASC;

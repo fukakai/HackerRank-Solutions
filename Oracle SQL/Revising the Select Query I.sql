@@ -1,1 +1,7 @@
+/*
+	Author: Romain DALICHAMP
+	Github: https://github.com/fukakai
+	Portfolio: http://romain.dalichamp.fr
+	Contact: romain.dalichamp@free.fr
+*/
 select * from city where COUNTRYCODE='USA' and POPULATION > 100000;
