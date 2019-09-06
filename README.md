@@ -1,4 +1,4 @@
-# HackerRank-Solutions
+#HackerRank-Solutions
 My HackerRank.com solutions (Java 8 - Bash - Oracle SQL)
 <br/><br/>
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=fukakai_HackerRank-Solutions)](https://sonarcloud.io/dashboard?id=fukakai_HackerRank-Solutions)
